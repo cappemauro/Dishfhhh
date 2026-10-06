@@ -1,0 +1,6 @@
+{
+  "name": "Dispensa di Fede e Mauro",
+  "description": "Gestione dispensa casalinga intelligente con tracciamento scadenze, scansione barcode, IA Gemini e lista della spesa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
